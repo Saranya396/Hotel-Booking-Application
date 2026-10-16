@@ -1,0 +1,1 @@
+The users of Hotel Booking Application are Admin , customer, room allocator
